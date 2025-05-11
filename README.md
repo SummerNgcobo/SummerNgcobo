@@ -1,6 +1,6 @@
 # **👋 Hi, I'm Summer**  
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJhY3VtNGV1bGJ0b2V5Z2x4Z3J3dW1jZzV6dGp5eGZ2eXZ5aGJ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Cartoon girl coding with coffee">  
+<img align="right" src="codingbed.gif" width="300" alt="Cartoon girl coding with coffee">  
 
 💻 **Full-Stack Developer** | ☁️ **CyberSecurity** | 🎛️ **Frontend Magician**  
 ---
@@ -39,7 +39,7 @@
 ---
 
 ### **📫 Let's Collaborate!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](www.linkedin.com/in/summer-ngcobo-26310a222)  
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)   -->
 
 **☕ Fun Fact:** I debug best with a **fresh pour-over** in hand.  
