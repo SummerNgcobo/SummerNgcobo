@@ -25,9 +25,9 @@
 
 ---
 
-### **🌟 Featured Projects**  
-- **[3D Portfolio Website](https://github.com/SummerNgcobo/My-Portfolio](https://summerswebsite.netlify.app/)** – Built with **Three.js** and React.  
-- **[3D Portfolio Website]()** – Built with **Three.js** and React.  
+### 🌟 Featured Projects  
+- **[3D Portfolio Website](https://summerswebsite.netlify.app/)** – Built with **Three.js** and React.  
+- **[3D Portfolio Website (GitHub)](https://github.com/SummerNgcobo/My-Portfolio)** – Source code repository.  
 
 
 ---
