@@ -38,8 +38,7 @@
 
 ---
 
-### **📫 Let's Collaborate!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)]("http://linkedin.com/in/summer-ngcobo-26310a222")   
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)   -->
+### 📫 Let's Collaborate!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/summer-ngcobo-26310a222)
 
 **☕ Fun Fact:** I debug best with a **fresh pour-over** in hand.  
