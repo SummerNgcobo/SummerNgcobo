@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJhY3VtNGV1bGJ0b2V5Z2x4Z3J3dW1jZzV6dGp5eGZ2eXZ5aGJ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Cartoon girl coding with coffee">  
 
-💻 **Full-Stack Developer** | ☁️ **CyberSecurity** | 🎛️ **Frontend Magician**  
+💻 **Full-Stack Developer** | ☁️ **DevOps** | 🎛️ **Frontend Magician**  
 
 
 ### **🛠️ Tech Stack**  
