@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJhY3VtNGV1bGJ0b2V5Z2x4Z3J3dW1jZzV6dGp5eGZ2eXZ5aGJ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Cartoon girl coding with coffee">  
 
-💻 **Full-Stack Developer** | ☁️ **DevOps** | 🎛️ **Frontend Magician**  
+💻 **Full-Stack Developer** | 🎛️ **Frontend Magician**  
 
 
 ### **🛠️ Tech Stack**  
@@ -17,7 +17,7 @@
 **Backend & Cloud:**  
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://java.com)  
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://python.org)  
-[![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure)](https://azure.microsoft.com)  
+
 
 **Testing & Automation:**  
 [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)](https://selenium.dev)  
@@ -29,13 +29,6 @@
 - **[3D Portfolio Website](https://summerswebsite.netlify.app/)** – Built with **Three.js** and React.  
 - **[3D Portfolio Website (GitHub)](https://github.com/SummerNgcobo/My-Portfolio)** – Source code repository.  
 
-
----
-
-### **🔒 Azure Security Focus**  
-- 🔐 **Identity Management**: Azure AD, Conditional Access  
-- 🛡️ **Threat Protection**: Azure Sentinel, Defender for Cloud  
-- ♻️ **DevSecOps**: Secure pipelines in **Azure DevOps**  
 
 ---
 
