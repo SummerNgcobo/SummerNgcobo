@@ -26,7 +26,7 @@
 
 ### 🌟 Featured Projects  
 - **[Picture Company Website](https://pixel-perfect-media-opal.vercel.app/)** – Built with HTML, CSS and JavaScript.
-- **[HubSpot Website](https:/47574277.hs-sites.com/home-3)** – Built with React, HubL 
+- **[HubSpot Website](https://47574277.hs-sites.com/home-3)** – Built with React, HubL 
 - **[3D Portfolio Website](https://summerswebsite.netlify.app/)** – Built with **Three.js** and React.  
 - **[3D Portfolio Website (GitHub)](https://github.com/SummerNgcobo/My-Portfolio)** – Source code repository.  
 
