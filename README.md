@@ -19,8 +19,7 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://python.org)  
 
 
-**Testing & Automation:**  
-[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)](https://selenium.dev)  
+**Testing & Automation:**   
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)](https://postman.com)  
 
 ---
